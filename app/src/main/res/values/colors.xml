@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#053C69</color>
+    <color name="water">#025A82</color>
+    <color name="sky">#0783BB</color>
+    <color name="turquoise">#1BBFD4</color>
+    <color name="black">#050505</color>
+    <color name="teal">#059688</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="back_color">#D8012434</color>
+    <color name="bot_back_color">#1C2B2D</color>
+    <color name="user_back_color">#3F51B5</color>
+    <color name="fab">#673AB7</color>
+</resources>
